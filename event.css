@@ -1,0 +1,19 @@
+
+body{
+    justify-items: center;
+    /* justify-content: center; */
+    text-align: center;
+    border: black solid;
+    border-radius: 2rem;
+    width: 50vh;
+    
+}
+button{
+    margin-bottom: 5rem;
+}
+div{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    margin: auto;
+}
